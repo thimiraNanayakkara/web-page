@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+}
+
+.header{
+    width: 100%;
+    height: 10vh;
+    background: white;
+}
+
+.main{
+    width: 100%;
+    min-height: 95vh;
+    height:100%;
+    padding: 20px 10px;
+
+}
+
+.box{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.note{
+    width: 100%;
+    height: 200px;
+}
+
+.image-1{
+    width: 350px;
+    height: 500px;
+    background-image: url("images/image-1.jpeg");
+    background-size: cover;
+}
+.image-2{
+    width: 350px;
+    height: 500px;
+    background-image: url("images/image-2.jpeg");
+    background-size: cover;
+}
+.image-3{
+    width: 750px;
+    height: 500px;
+    background-image: url("images/image-3.jpeg");
+    background-size: cover;
+}
+.image-4{
+    width: 350px;
+    height: 500px;
+    background-image: url("images/image-4.jpeg");
+    background-size: cover;
+}
+.image-5{
+    width: 350px;
+    height: 500px;
+    background-image: url("images/image-5.jpeg");
+    background-size: cover;
+}
+.image-6{
+    width: 350px;
+    height: 500px;
+    background-image: url("images/image-6.jpeg");
+    background-size: cover;
+}
+.image-7{
+    width: 750px;
+    height: 500px;
+    background-image: url("images/image-7.jpeg");
+    background-size: cover;
+}
+.image-8{
+    width: 750px;
+    height: 500px;
+    background-image: url("images/image-8.jpeg");
+    background-size: cover;
+}
+.image-9{
+    width: 400px;
+    height: 500px;
+    background-image: url("images/image-9.jpeg");
+    background-size: cover;
+}
+.image-10{
+    width: 400px;
+    height: 500px;
+    background-image: url("images/image-10.jpeg");
+    background-size: cover;
+}
+.image-11{
+    width: 750px;
+    height: 500px;
+    background-image: url("images/image-11.jpeg");
+    background-size: cover;
+}
+.image-12{
+    width: 350px;
+    height: 500px;
+    background-image: url("images/image-12.jpeg");
+    background-size: cover;
+}
+.image-13{
+    width: 750px;
+    height: 500px;
+    background-image: url("images/image-13.jpeg");
+    background-size: cover;
+}
+.image-14{
+    width: 350px;
+    height: 500px;
+    background-image: url("images/image-14.jpeg");
+    background-size: cover;
+}
+.image-15{
+    width: 750px;
+    height: 500px;
+    background-image: url("images/image-15.jpeg");
+    background-size: cover;
+}
+.image-16{
+    width: 750px;
+    height: 500px;
+    background-image: url("images/image-16.jpeg");
+    background-size: cover;
+}
+.image-17{
+    width: 750px;
+    height: 500px;
+    background-image: url("images/image-17.jpeg");
+    background-size: cover;
+}
+.image-18{
+    width: 500px;
+    height: 500px;
+    background-image: url("images/image-18.jpeg");
+    background-size: cover;
+}
+
+.description{
+    width: 500px;
+    height: 250px;
+    background-color: white;
+    box-shadow: 10px 10px;
+}
+
+.footer{
+    width: 100%;
+    height: 400px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.inner{
+    height: 300px;
+    width: 500px;
+    margin-top: 10px;
+    padding-left: 10px;
+    background-color: white;
+    box-shadow: 10px 10px;;
+}
+
